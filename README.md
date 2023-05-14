@@ -1,17 +1,36 @@
-# stacked_app
+<a name="readme-top"></a>
 
-A new Flutter project.
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-## Getting Started
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/mustafayilmazdev/mydev_web_blog">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-This project is a starting point for a Flutter application.
+  <h3 align="center">Flutter Web Blog</h3>
 
-A few resources to get you started if this is your first Flutter project:
+  <p align="center">
+    
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+ 
+  </p>
+</div>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<!-- ABOUT THE PROJECT -->
 
+# About The Project
+## Flutter Web Application to post blogs.
+![web 1][product-screenshot1]
+![web 2][product-screenshot2]
+
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+[linkedin-url]: https://linkedin.com/in/mustafa-yilmaz-dev
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[product-screenshot1]: images/0.png
+[product-screenshot2]: images/1.png

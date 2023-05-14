@@ -9,6 +9,7 @@ class AdminViewDesktop extends ViewModelWidget<AdminViewModel> {
   @override
   Widget build(BuildContext context, AdminViewModel viewModel) {
     return const Scaffold(
+      backgroundColor: Colors.black,
       body: Center(
         child: Text(
           'Hello, DESKTOP UI!',
